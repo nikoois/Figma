@@ -1,0 +1,60 @@
+<div style="width: 100%; height: 100%; position: relative; background: linear-gradient(180deg, #D9D9D9 0%, rgba(217, 217, 217, 0) 100%); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="width: 1600px; height: 900px; position: relative">
+        <div style="width: 1600px; height: 900px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 530px; height: 530px; left: 640px; top: 165px; position: absolute; background: #9DA0A1; border-radius: 9999px"></div>
+        <img style="width: 520.49px; height: 520px; left: 590px; top: 625px; position: absolute; transform: rotate(-77deg); transform-origin: 0 0" src="https://via.placeholder.com/520x520" />
+    </div>
+    <div style="width: 1920px; height: 979px; background: linear-gradient(180deg, #A7EAFF 0%, #0393FF 100%)"></div>
+    <img style="width: 375px; height: 375px; transform: rotate(4.84deg); transform-origin: 0 0" src="https://via.placeholder.com/375x375" />
+    <div style="width: 1169.68px; height: 33px; position: relative">
+        <div style="width: 303.30px; height: 30px; left: 0px; top: 3px; position: absolute; opacity: 0.70">
+            <div style="width: 43.76px; height: 30px; left: 0px; top: 0px; position: absolute; background: #061048; border-radius: 9px"></div>
+            <div style="width: 250.43px; height: 15.17px; left: 52.88px; top: 13.38px; position: absolute"><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 800; word-wrap: break-word">R</span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">acing </span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 800; word-wrap: break-word">P</span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">igeons </span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 800; word-wrap: break-word">L</span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">abaratory.</span></div>
+            <div style="width: 42.88px; height: 26.25px; left: 4px; top: 3px; position: absolute; color: #71F8E7; font-size: 18px; font-family: Montserrat; font-weight: 400; text-decoration: underline; word-wrap: break-word">RPL</div>
+        </div>
+        <div style="width: 400px; height: 20px; left: 600px; top: 7px; position: absolute">
+            <div style="width: 91px; height: 20px; left: 309px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Home page</div>
+            <div style="width: 87.75px; height: 17.06px; left: 200px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Our frends</div>
+            <div style="width: 74.98px; height: 18.24px; left: 100px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">About as</div>
+            <div style="width: 75.78px; height: 11.18px; left: 0px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Contacts</div>
+        </div>
+        <div style="width: 97.68px; height: 33px; left: 1072px; top: 0px; position: absolute">
+            <div style="width: 33.88px; height: 33px; left: 0px; top: 0px; position: absolute; background: #020A34"></div>
+            <div style="width: 8.79px; height: 7.15px; left: 88.65px; top: 14.05px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0">
+                <div style="width: 8.69px; height: 1.75px; left: 0.11px; top: 0.30px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 5.09px; height: 6.95px; left: 0.01px; top: 0.20px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 5.29px; height: 6.45px; left: 3.52px; top: 0.48px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 8.19px; height: 1.85px; left: 0.30px; top: -0.01px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 5.49px; height: 1.67px; left: 1.74px; top: 1.12px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 4.69px; height: 2.45px; left: 1.95px; top: 1.33px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 4.39px; height: 2.15px; left: 2.46px; top: 1.82px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 3.09px; height: 1.85px; left: 2.70px; top: 2.81px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 2.59px; height: 3.05px; left: 2.91px; top: 3.20px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 2.89px; height: 3.35px; left: 3.58px; top: 2.38px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+                <div style="width: 2.89px; height: 3.85px; left: 1.44px; top: 1.05px; position: absolute; transform: rotate(-1.95deg); transform-origin: 0 0; background: black"></div>
+            </div>
+            <div style="width: 44.13px; height: 10.05px; left: 37.83px; top: 11.55px; position: absolute; background: black"></div>
+            <img style="width: 24.59px; height: 24.59px; left: 4.53px; top: 4.53px; position: absolute; border-radius: 33px" src="https://via.placeholder.com/25x25" />
+        </div>
+    </div>
+    <div style="width: 600px; height: 600px; opacity: 0.50; background: #FEFEFE; box-shadow: 150px 150px 150px; border-radius: 9999px; filter: blur(150px)"></div>
+    <img style="width: 746.21px; height: 650px; transform: rotate(11.16deg); transform-origin: 0 0" src="https://via.placeholder.com/746x650" />
+    <div style="width: 726px; height: 280px; position: relative">
+        <div style="width: 720px; height: 161px; left: 6px; top: 0px; position: absolute; color: black; font-size: 59px; font-family: Montserrat; font-weight: 800; word-wrap: break-word">Racing you’r Pigeons</div>
+        <div style="width: 290px; height: 50px; left: 0px; top: 230px; position: absolute">
+            <div style="width: 290px; height: 50px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #06425A 0%, #A7EAFF 0%, rgba(55.83, 141.91, 206.13, 0.46) 48%, #056CB9 100%); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 18px; border: 0.50px black solid"></div>
+            <div style="width: 133px; height: 21px; left: 80px; top: 14px; position: absolute; color: black; font-size: 20px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">to our chanel</div>
+        </div>
+        <div style="width: 600px; height: 116px; left: 6px; top: 80px; position: absolute; opacity: 0.60; color: black; font-size: 24px; font-family: Montserrat; font-weight: 400; line-height: 40px; word-wrap: break-word">The growing and training pigeons for sportivity racing competitions from zero to hero!!!</div>
+    </div>
+    <div style="width: 300px; height: 300px; position: relative">
+        <div style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; background: #FEFEFE; box-shadow: 15px 4px 20px rgba(0, 0, 0, 0.25); border-radius: 28px"></div>
+        <img style="width: 180.95px; height: 141px; left: 73px; top: 44px; position: absolute; transform: rotate(-6.06deg); transform-origin: 0 0" src="https://via.placeholder.com/181x141" />
+        <div style="width: 142px; height: 34px; left: 81px; top: 9px; position: absolute; color: black; font-size: 32px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">growing</div>
+    </div>
+    <div style="width: 300px; height: 300px; position: relative">
+        <div style="width: 300px; height: 300px; left: 0px; top: 0px; position: absolute; background: #FEFEFE; box-shadow: 15px 4px 20px rgba(0, 0, 0, 0.25); border-radius: 28px"></div>
+        <img style="width: 162px; height: 182px; left: 65px; top: 44px; position: absolute" src="https://via.placeholder.com/162x182" />
+        <div style="width: 260px; height: 41px; left: 30px; top: 9px; position: absolute; color: black; font-size: 32px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">championship</div>
+    </div>
+</div>
